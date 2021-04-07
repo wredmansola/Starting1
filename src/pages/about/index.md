@@ -1,10 +1,10 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About NinjaSquad.net | Inspiring Story
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Who we are?
+The small blog with huge impact and hold on tech market. This blog started at 2019 by Rohan Paul (USA) with team of two friends who are expert in Testing Android Apps, Softwares and new Tech Gadgets. So this great blog is example of how can anyone use there own research for others and share. Now in 2021 the team is expanded to 20 peoples who are top notch and industry expert in tech Field.
 
 ### Single origin
 Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
