@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Ninjasquad | Towards Better Internet',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'ninjasquad.net is committed to making the Internet a better place. Through this blog, you will get reviews of new things in the tech market and the best products in it.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
