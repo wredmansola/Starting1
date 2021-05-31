@@ -1,56 +1,35 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: The New Way of Getting Premium Things for Free
+image: /img/ninjasquad.net-brand-colour.webp
+heading: NinjaSquad - Tricks, Tips, Freebies & Coupons
+subheading: Get things for free, Cut your expenses and earn more !
 mainpitch:
-  title: Why Kaldi
+  title: What we do?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Ninjasquad.net lets you try products before you buy them, so you can be a
+    smart consumer and get the best premium experience without spending a cent.
+description: It is all about helping our customers discover new brands, try new
+  products, and get premium experiences- all without spending a dime!
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        With Ninjasquad.net you can avoid overspending on premium items you
+        don’t need. Try products at home and decide what’s right for you.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        With us, you can easily buy premium products like cell phones, high-end
+        laptops, TVs, and much more while saving a lot of money.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: We gives you access to exclusive premium content and services so you can
+        learn more about products before you buy.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Save up to 75% on hundreds of brands’ premium items. Ninjasquad is your
+        insider connection for premium brands at a fraction of their original
+        cost.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: a
 main:
   heading: Great coffee with no compromises
   description: >
