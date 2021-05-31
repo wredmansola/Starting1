@@ -1,14 +1,15 @@
 ---
 templateKey: index-page
-title: The New Way of Getting Premium Things for Free
+title: The New Way of Getting Premium Things Cheap
 image: /img/ninjasquad.net-brand-colour.webp
 heading: NinjaSquad - Tricks, Tips, Freebies & Coupons
-subheading: Get things for free, Cut your expenses and earn more !
+subheading: Get things for Free & Cheap, Cut your expenses and earn more !
 mainpitch:
   title: What we do?
   description: >
     Ninjasquad.net lets you try products before you buy them, so you can be a
-    smart consumer and get the best premium experience without spending a cent.
+    smart consumer and get the best premium experience without spending more
+    cents.
 description: It is all about helping our customers discover new brands, try new
   products, and get premium experiences- all without spending a dime!
 intro:
