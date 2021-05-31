@@ -14,23 +14,23 @@ description: It is all about helping our customers discover new brands, try new
   products, and get premium experiences- all without spending a dime!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/team-of-ninjasquad.png
       text: >
         With Ninjasquad.net you can avoid overspending on premium items you
         don’t need. Try products at home and decide what’s right for you.
-    - image: /img/coffee-gear.png
+    - image: /img/deals-shared-by-ninjasquad.net.png
       text: >
         With us, you can easily buy premium products like cell phones, high-end
         laptops, TVs, and much more while saving a lot of money.
-    - image: /img/tutorials.png
+    - image: /img/trust-by-users-on-ninjasquad.png
       text: We gives you access to exclusive premium content and services so you can
         learn more about products before you buy.
-    - image: /img/meeting-space.png
+    - image: /img/trust-by-users-on-ninjasquad.png
       text: Save up to 75% on hundreds of brands’ premium items. Ninjasquad is your
         insider connection for premium brands at a fraction of their original
         cost.
   heading: What we offer
-  description: a
+  description: "TIP: Be like our ninja and get stuff cheap."
 main:
   heading: Great coffee with no compromises
   description: >
