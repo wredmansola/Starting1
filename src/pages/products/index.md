@@ -52,9 +52,9 @@ pricing:
     and your friends.
   plans:
     - plan: Advance research
-      price: 0$
+      price: "0"
       description: No need to pay 100$ to sites that scrape data for you. Instead you
         use our site.
       items:
-        - 100% researched projects
+        - 100% researched productswithdeals
 ---
