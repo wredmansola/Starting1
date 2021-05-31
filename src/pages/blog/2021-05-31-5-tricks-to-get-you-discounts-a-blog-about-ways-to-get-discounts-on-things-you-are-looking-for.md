@@ -20,6 +20,8 @@ So to avoid you getting stuck at different internet sites, we are giving you **5
 
 In fact, 1 of our readers used same the procedure and get the *highest deal* on the desired product. 
 
+![5 tricks to get you discounts by ninjasquad team](/img/5-tricks-to-get-discounts-on-products.jpg "5 hacks to get huge saving money.")
+
 sounds great.
 
 ## \#1. Always check Deals and Coupons websites
