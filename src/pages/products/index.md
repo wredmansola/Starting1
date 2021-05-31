@@ -50,5 +50,11 @@ pricing:
     ability to scan and get deeply discounted prices on virtually anything
     online! We are dedicated to finding and sharing those killer deals with you
     and your friends.
-  plans: []
+  plans:
+    - plan: Advance research
+      price: 0$
+      description: No need to pay 100$ to sites that scrape data for you. Instead you
+        use our site.
+      items:
+        - 100% researched projects
 ---
