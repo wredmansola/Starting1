@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Ninjasquad | Towards Better Internet',
+    title: 'Ninjasquad - Freebies | Coupons | Deals | App Store & Google Play| Contest',
     description:
-      'ninjasquad.net is committed to making the Internet a better place. Through this blog, you will get reviews of new things in the tech market and the best products in it.',
+      'ninjasquad.net lets you try products before you buy them, so you can be a smart consumer and get the best premium experience without spending a cent.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
