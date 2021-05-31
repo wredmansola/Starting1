@@ -1,101 +1,54 @@
 ---
-templateKey: 'product-page'
+heading: "Ninjasquad: Your Personal Couponing Assistant"
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Deals | Coupons | Reviews by NinjaSquad team
+image: /img/ninjasquad.net-brand-colour.webp
+description: "Ninjasquad is your personal couponing assistant. Before
+  ninjasquad, If you wanted to buy something online you would have to: search
+  for the best coupons, visit each store and shop wisely to make sure you save
+  as much as you can. But now, with ninjasquad. Instead of spending hours
+  searching for the best coupons, you can use our coupon clipping service which
+  automatically gets you the best coupons and shopping deals available before
+  you even leave your house."
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+  blurbs: []
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+    Ninja Squad - Back to school, or back to work:  
+
+    If you are like most people online shopping is your “go-to” for anything you need. Everything from food, clothes, electronics, home equipment, and more can now be found online at a much lower price. However, finding those amazing deals can be difficult as websites and applications now make it easier than ever to comparison shop and discover lower prices. Ninja Squad has built the best place for you to find the cheapest prices on anything
+main:
+  heading: No Nonsense, Only quality Work
+  description: Whether you're looking to find new coupons from the comfort of your
+    own home or want a personal shopper by your side to help you save money
+    while you shop, there's only one place that offers both -- NinjaSquad.Net
+  image1:
+    alt: the team of ninjasquad working together vector
+    image: /img/team-of-ninjasquad.png
+  image2:
+    alt: deals that we provide through our blog
+    image: /img/deals-shared-by-ninjasquad.net.png
+  image3:
+    alt: trust symbol in dark brown colour
+    image: /img/trust-by-users-on-ninjasquad.png
+testimonials:
+  - author: Rohan Saxena, CTO - Myplan
+    quote: I love ninjasquad! Ninjasquad is a great way to save money and time when
+      shopping online or offline. I have been using it for many years now, and
+      it always brings me great deals on things I want to buy. It's a really
+      convenient tool for saving money.
+  - author: Sharad Kumar, Marketer at ridoo
+    quote: Ninjasquad knows about hundreds of good deals available online and
+      offline. It is like my own personal coupon assistant that gets all the
+      best deals for me.
+full_image: /img/get-best-deals-by-ninjasquad.jpg
+pricing:
+  heading: How we Work
+  description: NinjaSquad is a customer-focused team of professional ninja
+    couponers. Using our custom built software and setups, we have developed the
+    ability to scan and get deeply discounted prices on virtually anything
+    online! We are dedicated to finding and sharing those killer deals with you
+    and your friends.
+  plans: []
 ---
