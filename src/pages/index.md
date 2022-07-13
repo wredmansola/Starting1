@@ -1,50 +1,29 @@
 ---
 templateKey: index-page
-title: The New Way of Getting Premium Things Cheap
+title: Shreyash Chavan
 image: /img/ninjasquad.net-brand-colour.webp
-heading: NinjaSquad - Tricks, Tips, Freebies & Coupons
-subheading: Get things for Free & Cheap, Cut your expenses and earn more !
+heading: The Ninja programmer
+subheading: A Ninja Programmer who love to work with Django, C, C++, AWS and Bootstrap.
 mainpitch:
-  title: What we do?
+  title: What I do?
   description: >
-    Ninjasquad.net lets you try products before you buy them, so you can be a
-    smart consumer and get the best premium experience without spending more
-    cents.
-description: It is all about helping our customers discover new brands, try new
-  products, and get premium experiences- all without spending a dime!
+    I am Shreyash Chavan famous by name "Wredman". I love to work with new
+    technologies, Collect rare things, and write tech blogs.
+description: see all my projects here
 intro:
-  blurbs:
-    - image: /img/team-of-ninjasquad.png
-      text: >
-        With Ninjasquad.net you can avoid overspending on premium items you
-        don’t need. Try products at home and decide what’s right for you.
-    - image: /img/deals-shared-by-ninjasquad.net.png
-      text: >
-        With us, you can easily buy premium products like cell phones, high-end
-        laptops, TVs, and much more while saving a lot of money.
-    - image: /img/trust-by-users-on-ninjasquad.png
-      text: We gives you access to exclusive premium content and services so you can
-        learn more about products before you buy.
-    - image: /img/trust-by-users-on-ninjasquad.png
-      text: Save up to 75% on hundreds of brands’ premium items. Ninjasquad is your
-        insider connection for premium brands at a fraction of their original
-        cost.
-  heading: What we offer
-  description: "TIP: Be like our ninja and get stuff cheap."
+  blurbs: []
+  heading: see
+  description: h
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: h
+  description: h
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: as
+    image: /img/apple-touch-icon.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: as
+    image: /img/deals-shared-by-ninjasquad.net.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: as
+    image: /img/get-best-deals-by-ninjasquad.jpg
 ---
